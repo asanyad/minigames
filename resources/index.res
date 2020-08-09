@@ -9,7 +9,7 @@ var lang = {
 		p03: "The games included are:<br /><ul><li>Hangman</li><li>Mastermind</li><li>Battleship </li><li>Five-in-a-row </li></ul>",
 		p04: "Are you at my age? Did you play these games as well? Then you know what I am talking about. Just have the feeling again.",
 		p05: "Or have you never heard about them? Then I recommend you to give a try to the old classic games and fall in love with them.",
-		p06: "Go to Download menu to find Minigames in Google Play and get it on your phone. If you happen to get stuck while playing watch our tutorial videos to find out what just to do.",
+		p06: "Go to Download menu to find MiniGames in Google Play and get it on your phone. If you happen to get stuck while playing watch our tutorial videos to find out what just to do.",
 		p07: "I wish you to have a great time with your friends and MiniGames,",
 		p08: "<pre style=\"font-family: Kaushan Script;\">           Asanyad</pre>",
 		footerText1: "Site made in Budapest, 2020",
