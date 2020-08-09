@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" type="text/css" href="style/style.css">
+        <meta charset="utf-8">
+        <title id="title"></title>
+    </head>
+    <body>	
+        <div id="stickyTop">
+            <div id="header">
+                <h1 id="headerText"><span id="welcome"></span> - <span id="menuname"></span></h1>
+                <a href="#eng" data-reload><img src="images/engFlag.png" alt="English flag"></a>
+                <a href="#hun" data-reload><img src="images/hunFlag.png" alt="Hungarian flag"></a>
+            </div>
+        </div>
+        <div id="nosticky">
+            <div id="menu_and_content">
+                <div id="menu">
+                    <div class="menuButtons" id="button1" onClick="redirect(this.id)"></div>
+                    <div class="menuButtons" id="button2" onClick="redirect(this.id)"></div>
+                    <div class="menuButtons" id="button3" onClick="redirect(this.id)"></div>
+                    <div class="menuButtons" id="button4" onClick="redirect(this.id)"></div>
+                </div>
+                <div id="content">          
+                    <h1 id="h01" class="contentTitle"></h1>           
+                    <div class="leftRighters">
+                        <div class="lefters">  
+                            <p id="p01" class="contentText"></p> 
+                            <p id="p02" class="contentText" hidden></p>   
+                        </div>
+                        <div class="righters">
+                           <!-- <a href="https://play.google.com/store/apps/details?id=com.asanyad.minigames"><img class="images" id="download01" alt="MiniGames     in google play"/></a>-->
+                           <img class="images" id="download01" alt="QuickEyes in google play" onclick="alert(document.getElementById('p02').innerHTML);"/>
+                        </div>
+                    </div>
+		</div>
+                
+            </div>	
+	</div>	
+	<div id="stickyBottom">		
+            <div id="footer">
+                <span class="footerText" id="footerText1"></span>
+                <span class="footerText" id="footerText2"></span>
+            </div>
+	</div>
+	<script type="text/javascript" src="js/imagepaths.js"></script>
+	<script type="text/javascript" src="resources/download.res"></script>
+        <script type="text/javascript" src="resources/download.ips"></script>		
+	<script type="text/javascript" src="menuitems/menulabels.js"></script>
+	<script type="text/javascript" src="js/setcontent.js"></script>
+	<script type="text/javascript" src="js/render.js"></script>
+    </body>
+</html>
