@@ -13,9 +13,9 @@ class Renderer {
         this.buttonHeightFactor = 0.4;
         this.buttonFontSizeFactor = 1 / 9.5;
         this.buttonBorderSizeFactor = 1 / 200;
-        this.h1SizeFactor = 0.25;
-        this.h2SizeFactor = 0.21;
-        this.pSizeFactor = 0.15;
+        this.h1SizeFactor = 0.2;
+        this.h2SizeFactor = 0.16;
+        this.pSizeFactor = 0.12;
     }
 
     render() {
