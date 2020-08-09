@@ -26,7 +26,7 @@ var lang = {
 		p04: "Velem egykorú vagy? Te is ezeket a játékokat játszottad régen? Akkor tudod, miről is beszélek. Éld át újra!.",
 		p05: "Vagy esetleg sosem hallottál még ezekről a játékokról? Akkor javaslom, próbáld ki őket, és szeress bele a klasszikusokba.",
 		p06: "Menj a Letöltés menübe, és találd meg a MiniJátékokat a Play Áruházban! Ha játék közben megakadnál, nézd meg az útmutató videóinkat, hogy megtudd, hogyan is tovább.",
-		p07: "Kívánom, hogy érezd jól magad a barátaiddal és a MiniJátékokkal,,",
+		p07: "Kívánom, hogy érezd jól magad a barátaiddal és a MiniJátékokkal,",
 		p08: "<pre style=\"font-family: Kaushan Script;\">           Asanyad</pre>",
 		footerText1: "Az oldal Budapesten készült 2020-ban",
 		footerText2: "Bármi nemű megjegyzéssel, javaslattal, vagy felmerülő kérdés esetén keress az asanya.d@gmail.com email címen"
