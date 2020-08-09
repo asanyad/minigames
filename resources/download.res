@@ -1,9 +1,9 @@
 var lang = {
 	eng:{
-		title: "MiniGameses - Download",
-		welcome: "Welcome to MiniGameses!",
+		title: "MiniGames - Download",
+		welcome: "Welcome to MiniGames!",
 		menuname: "Download",
-		h01: "Download MiniGameses",
+		h01: "Download MiniGames",
 		p01: "If you like what you've seen and watched just try MiniGames. Clicking the picture you can get to Google Play and download it. I wish you to have a great time.",
 		p02: "A little patience, please!\n\nAsanyad - MiniGames will be available for downloading in Google Play in September 2020.",
 		footerText1: "Site made in Budapest, 2020",
