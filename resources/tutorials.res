@@ -9,7 +9,6 @@ var lang = {
 		s02: "Mastermind",
 		s03: "Battleship",
 		s04: "Five-in-a-row",
-                p02: "This tutorial is under uploading.",
                 footerText1: "Site made in Budapest, 2020",
 		footerText2: "On any further information, remark or recommendation don't hesitate to contact me on asanya.d@gmail.com"
 	},
@@ -23,7 +22,6 @@ var lang = {
 		s02: "Kódfejtő (Mastermind)",
 		s03: "Torpedó",
 		s04: "Ötödölő",
-                p02: "Ez az útmutató feltöltés alatt van.",
                 footerText1: "Az oldal Budapesten készült 2020-ban",
 		footerText2: "Bármi nemű megjegyzéssel, javaslattal, vagy felmerülő kérdés esetén keress az asanya.d@gmail.com email címen"
 	}
